@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm George</h1>
 <h3 align="center">Sup nerds</h3>
 
-- 🔭 I’m currently working on [Verbose Succotash](https://github.com/k1339202/verbose-succotash)
-
-- 🌱 I’m currently learning **Javascript, Rust**
-
 <h3 align="left">Connect with me: k1339202@students.katyisd.org</h3>
 <p align="left">
 </p>
